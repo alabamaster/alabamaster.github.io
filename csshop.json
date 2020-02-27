@@ -1,9 +1,6 @@
-#{
-#"domains": [
-#  "csonelove.ru",
-#  "buffcs.gq"
-#]
-#}
 {
-  ["csonelove.ru", "buffcs.gq",]
+"domains": [
+  "csonelove.ru",
+  "buffcs.gq"
+]
 }
